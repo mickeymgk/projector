@@ -1,0 +1,91 @@
+{
+  "pageCacheStats" : {
+    "cachedChannelsStatistics" : {
+      "hit" : 9064,
+      "miss" : 0,
+      "load" : 203,
+      "capacity" : 400
+    },
+    "uncachedFileAccess" : 8702,
+    "maxRegisteredFiles" : 447,
+    "maxCacheSizeInBytes" : 527474688,
+    "totalCachedSizeInBytes" : 34676736,
+    "pageHits" : 2726662,
+    "pageFastCacheHits" : 32342535,
+    "pageLoadsAboveSizeThreshold" : 88,
+    "regularPageLoads" : 500,
+    "disposedBuffers" : 564,
+    "totalPageDisposalUs" : 1245,
+    "totalPageLoadUs" : 1790351,
+    "totalPagesLoaded" : 588,
+    "capacityInBytes" : 524288000
+  },
+  "vfsStorageStats" : {
+    "statsPerEnumerator" : {
+      "contentHashes.dat" : {
+        "collisions" : 0,
+        "values" : 131,
+        "dataFileSizeInBytes" : 2620,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 131,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 1,
+          "searchRequests" : 267,
+          "searchSteps" : 4,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      },
+      "names.dat" : {
+        "collisions" : 3036,
+        "values" : 190758,
+        "dataFileSizeInBytes" : 6134440,
+        "storageSizeInBytes" : 24416,
+        "btreeStatistics" : {
+          "pages" : 66,
+          "elements" : 189000,
+          "height" : 2,
+          "moves" : 994,
+          "leafPages" : 65,
+          "maxSearchStepsInRequest" : 105,
+          "searchRequests" : 756739,
+          "searchSteps" : 1076188,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 2162688
+        }
+      }
+    }
+  },
+  "indexStorageStats" : {
+    "indexStoragesStats" : { }
+  },
+  "otherStorageStats" : {
+    "statsPerPhm" : {
+      "$USER_HOME$/.projector/configs/kl/system/frameworks/detection/SunflowerwithCompose.c29d45ec/files" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      }
+    }
+  }
+}

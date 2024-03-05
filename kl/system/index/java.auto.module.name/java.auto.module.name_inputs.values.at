@@ -1,0 +1,160 @@
+/Header Record For PersistentHashMapValueStorage
+classes
+classesjunit
+classescore
+classes
+annotation
+classes
+monitor
+classesannotation.experimental
+tracing
+classes
+classes
+storage
+classes	runner
+classesespresso.idling.resource
+classesuiautomator
+classesbenchmark.macro.junit4
+classesespresso.corekotlin.stdlibbenchmark.macroannotationsannotationsjunitjunithamcrest.corekotlin.stdlibhamcrest.core
+annotation
+annotation	jsr305lifecycle.commonlifecycle.commonlistenablefuturelistenablefutureconcurrent.futuresconcurrent.futures
+javawriter
+javawriterjavax.injectjavax.inject.1.sourceshamcrest.libraryhamcrest.libraryhamcrest.integrationhamcrest.integrationwire.runtime.jvmkotlin.stdlib.jdk8kotlin.stdlib.jdk8kotlin.stdlib.jdk7kotlin.stdlib.jdk7okio.jvmwire.runtime.jvm
+classes
+classes
+classes
+classeslifecycle.runtime
+classes
+classeslifecycle.runtime.ktx
+classes
+classeslifecycle.livedata
+classeslifecycle.livedata.core
+classeslifecycle.livedata.core.ktx
+classeslifecycle.process
+classesstartup.runtime
+classeslifecycle.service
+classescore.runtimelifecycle.viewmodel
+classes
+classesui.tooling.android
+classesruntime.android
+classesruntime.saveable.android
+classesui.geometry.android
+classesui.graphics.android
+classesui.unit.android
+classesui.text.android
+ui.android
+classesui.util.android
+classesui.tooling.data.android
+classes
+classesui.tooling.preview.androidannotation.experimental
+classes
+classes
+tracingcore.ktx
+classesversionedparcelable
+classes
+classeslifecycle.livedata.ktx
+classeslifecycle.viewmodel.ktx
+classesnavigation.compose
+classesactivity.compose
+classesactivity.ktx
+classesactivity
+classes!lifecycle.viewmodel.savedstate
+classescore
+savedstate
+classessavedstate.ktx
+classesanimation.android
+classesanimation.core.android
+classesfoundation.layout.android
+classes
+classesnavigation.runtime.ktxlifecycle.viewmodel.compose
+classesnavigation.common.ktx
+classes
+classesnavigation.runtime
+classesnavigation.common
+classespaging.compose.android
+classespaging.common.android
+classesroom.ktx
+classesroom.runtime
+classes	sqlite
+classessqlite.framework
+classeswork.runtime.ktx
+classeswork.runtime
+classesfoundation.android
+classes
+classesappcompat.resources
+classesvectordrawable
+classesvectordrawable.animated
+classesinterpolator
+classescursoradapter
+classesdrawerlayout
+classes
+customview	appcompat
+classesfragment
+classes	loader
+classes
+classescardview
+classescoordinatorlayout	viewpager
+classes
+classes
+classeslegacy.support.core.utils
+classesdocumentfile
+classeslocalbroadcastmanager
+classesdynamicanimationprint
+classes
+classes
+transition
+classes
+classes
+viewpager2
+classes
+classeshilt.navigation.compose
+classeshilt.navigation
+classesprofileinstaller
+classes
+classeshilt.android
+classesmaterial.icons.core.android
+classesmaterial.ripple.android
+classesui.viewbinding
+classesruntime.livedata
+classes
+compose
+classesglidematerial3.android
+classes
+gifdecoder
+classesexifinterface
+classes
+classesktx
+classesrecyclerview.integration!accompanist.systemuicontrollerdatabinding.commondatabinding.commonannotation.jvmannotationsannotationscore.commoncore.commonlifecycle.commonlifecycle.commonkotlinx.coroutines.androidannotation.jvmkotlinx.coroutines.core.jvmkotlin.stdlib.jdk8kotlin.stdlib.jdk8kotlin.stdlib.jdk7kotlin.stdlib.jdk7collection.jvmcollection.jvmlifecycle.common.java8lifecycle.common.java8room.commonroom.commonconstraintlayout.solvergsongsonlogging.interceptorlogging.interceptor	okhttpkotlinx.coroutines.core.jvm	okhttpokio.jvmconverter.gsonconverter.gsonretrofitretrofitokio.jvm	dagger	hilt.core	hilt.core	dagger	jsr305disklrucache	jsr305disklrucacheannotations
+classes
+classescore.testing
+classesespresso.contrib
+classesespresso.intents
+classesrules
+classes
+classeswork.testingui.test.junit4.android
+classes
+classeshilt.android.testing
+classesmultidexhamcrest.corehamcrest.corehamcrestui.test.androidhamcrestmockito.core	objenesis	objenesislistenablefuturehamcrest.libraryhamcrest.librarykotlinx.coroutines.test.jvmkotlinx.coroutines.test.jvmguavamockito.corefailureaccessfailureaccesschecker.qualchecker.qualerror.prone.annotationserror.prone.annotationsj2objc.annotationsj2objc.annotations
+gradle.api	groovy
+groovy.antgroovy.astbuildergroovy.consolegroovy.datetimegroovy.dateutilgroovy.groovydocgroovy.json
+groovy.nio
+groovy.sqlgroovy.templatesgroovy.test
+groovy.xmljavaparser.corekotlin.stdlibkotlin.stdlib.commonkotlin.reflectkotlin.stdlib.jdk7kotlin.stdlib.jdk8gradle.installation.beacongradle.kotlin.dsl.extensionsgradle.kotlin.dsl# gradle.kotlin.dsl.tooling.modelsgradle.coregradle.core.apihilt.android.gradle.plugin	gradledatabinding.compiler.commonjetifier.processorjetifier.core"symbol.processing.gradle.plugingradle.versions.plugin	plugingradle.settings.api
+lint.model
+buildermanifest.merger
+sdk.common	sdklib
+repositoryaaptcompiler
+tracker	shared2/android.test.plugin.host.emulator.control.proto+(android.test.plugin.host.retention.protobuilder.model
+gradle.apisymbol.processing.api symbol.processing.common.depsbuilder.test.api	ddmliblayoutlib.apidvlib	commonspotless.plugin.gradlespotless.lib.extrasolsticemoshi.kotlinmoshikotlin.reflectkotlin.stdlibkotlin.stdlib.commonkotlin.gradle.plugin.modelkotlin.gradle.plugin.apikotlin.gradle.plugin
+bundletoolaapt2.protocrashlint.typedef.removerbaseLibrary'$android.device.provider.ddmlib.proto'$android.device.provider.gradle.proto85android.test.plugin.host.additional.test.output.proto*'android.test.plugin.host.coverage.proto(%android.test.plugin.host.logcat.proto/,android.test.plugin.host.apk.installer.proto30android.test.plugin.result.listener.gradle.prototransform.apihttpmime
+commons.ioasm.commonsasm.utilasm.analysisasm.treeasm
+apkzlibbcpkix.jdk15onjaxb.runtimejopt.simplejavapoetprotobuf.java.utilgrpc.protobuftink	protosproto.google.common.protosprotobuf.java
+grpc.netty	grpc.coregson	grpc.stub
+core.prototensorflow.lite.metadataflatbuffers.java"kotlin.gradle.plugin.idea.protokotlin.gradle.plugin.ideakotlin.klib.commonizer.apikotlin.native.utilskotlin.util.klibkotlin.build.tools.apikotlin.android.extensionskotlin.compiler.runnerkotlin.compiler.embeddable'$kotlin.scripting.compiler.embeddable,)kotlin.scripting.compiler.impl.embeddable	durian.iodurian.collectdurian.coreorg.eclipse.jgitspotless.libjimfsgrpc.protobuf.litegrpc.apiguava	daggerkxml2bcprov.jdk15on
+trove4j
+xercesImplcommons.compress
+httpclienthttpcorejavax.activationsignflinger
+zipflingerannotationsjna.platformjuniversalchardetjavax.annotation.api
+stax.exjakarta.xml.bind.apitxw2istack.commons.runtimeFastInfosetjakarta.activation.apiauto.value.annotationserror.prone.annotations	jose4j	slf4j.apijdom2j2objc.annotationsannotationsanimal.sniffer.annotationsperfmark.apinetty.codec.http2netty.handler.proxychecker.qualcommons.codec	apksig
+javawriter# kotlin.gradle.plugin.annotationskotlin.project.modelkotlin.tooling.corekotlin.util.iokotlin.daemon.embeddablekotlin.daemon.clientkotlinx.coroutines.core.jvmkotlin.scripting.jvmkotlin.scripting.commonJavaEWAHconcurrent.treesfailureaccessxml.apiscommons.loggingjnagrpc.contextnetty.codec.httpnetty.handlernetty.codec.socksnetty.codecnetty.transportnetty.buffernetty.resolvernetty.commonxzdurian.swt.osorg.eclipse.osginetty.tcnative.classes
+android

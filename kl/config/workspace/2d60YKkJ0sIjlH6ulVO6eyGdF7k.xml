@@ -1,0 +1,189 @@
+<project version="4">
+  <component name="BookmarksManager">
+    <option name="groups">
+      <GroupState>
+        <option name="name" value="SunflowerwithCompose" />
+      </GroupState>
+    </option>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="-1">
+      <file>
+        <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/ui/Color.kt">
+          <provider selected="true" editor-type-id="android-source-code">
+            <state selected-layout="SHOW_EDITOR">
+              <editor-state relative-caret-position="-44">
+                <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+              </editor-state>
+              <multi-preview-state selected="Compose">
+                <representations>
+                  <list>
+                    <representation name="Compose">
+                      <settings>
+                        <setting name="previewLayout" value="List" />
+                        <setting name="selectedGroup" value="" />
+                      </settings>
+                    </representation>
+                  </list>
+                </representations>
+              </multi-preview-state>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTypeUsageLocalSummary">
+    <fileType name="Kotlin">
+      <summary usageCount="1" lastUsed="1709315886491" />
+    </fileType>
+    <fileType name="Markdown">
+      <summary usageCount="2" lastUsed="1709314246796" />
+    </fileType>
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="LanguageUsageStatistics">
+    <language id="Markdown">
+      <summary usageCount="2" lastUsage="1709314246800" />
+    </language>
+    <language id="kotlin">
+      <summary usageCount="1" lastUsage="1709315886491" />
+    </language>
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" />
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="SunflowerwithCompose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SunflowerwithCompose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SunflowerwithCompose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SunflowerwithCompose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="SunflowerwithCompose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SunflowerwithCompose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main/java/com/google/samples/apps/sunflower}" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="SunflowerwithCompose" type="b2602c69:ProjectViewProjectNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main}" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main/java}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main/java/com/google/samples/apps/sunflower}" type="462c0819:PsiDirectoryNode" />
+              <item name="dir{file:///home/codespace/AndroidStudioProjects/SunflowerwithCompose/app/src/main/java/com/google/samples/apps/sunflower/ui}" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="ToolWindowManager">
+    <layoutV2>
+      <window_info content_ui="combo" id="Project" order="0" weight="0.7463592" />
+      <window_info id="Commit" order="1" weight="0.25" />
+      <window_info id="Resources Explorer" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Terminal" order="1" />
+      <window_info anchor="bottom" id="Problems" order="2" />
+      <window_info anchor="bottom" id="Problems View" order="3" />
+      <window_info anchor="bottom" id="Logcat" order="4" />
+      <window_info active="true" anchor="bottom" id="Build" order="5" visible="true" weight="0.35755396" />
+      <window_info anchor="right" id="Meet New UI" show_stripe_button="false" sideWeight="0.49927115" side_tool="true" weight="0.25036126" />
+      <window_info anchor="right" id="Notifications" order="0" weight="0.25017998" />
+      <window_info anchor="right" id="Gradle" order="1" sideWeight="0.50072885" weight="0.25036126" />
+      <window_info anchor="right" id="Device Manager" order="2" weight="0.25" />
+      <window_info anchor="right" id="Device Manager 2" order="3" weight="0.25" />
+      <window_info anchor="right" id="Running Devices" order="4" weight="0.25" />
+      <window_info anchor="right" id="StudioBot" order="5" weight="0.25" />
+      <window_info anchor="right" id="Assistant" order="6" weight="0.3264642" />
+      <unified_weights bottom="0.35755396" left="0.7463592" right="0.25017998" />
+    </layoutV2>
+    <recentWindows>
+      <value>Project</value>
+      <value>Notifications</value>
+      <value>Build</value>
+      <value>Meet New UI</value>
+      <value>Assistant</value>
+    </recentWindows>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="202" y="52" key="SettingsEditor" timestamp="1709315661229">
+      <screen x="9" y="25" width="1389" height="781" />
+    </state>
+    <state x="420" y="247" key="SettingsEditor/227.221.1388.753@227.221.1388.753" timestamp="1709313339731" />
+    <state x="202" y="52" key="SettingsEditor/9.25.1389.781@9.25.1389.781" timestamp="1709315661229" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="20" column="115" lean-forward="true" selection-start-line="20" selection-start-column="115" selection-end-line="20" selection-end-column="115" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/src/main/java/com/google/samples/apps/sunflower/ui/Color.kt">
+      <provider selected="true" editor-type-id="android-source-code">
+        <state selected-layout="SHOW_EDITOR">
+          <editor-state relative-caret-position="-44">
+            <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+          </editor-state>
+          <multi-preview-state selected="Compose">
+            <representations>
+              <list>
+                <representation name="Compose">
+                  <settings>
+                    <setting name="previewLayout" value="List" />
+                    <setting name="selectedGroup" value="" />
+                  </settings>
+                </representation>
+              </list>
+            </representations>
+          </multi-preview-state>
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>

@@ -1,0 +1,13 @@
+<project>
+  <component name="ExternalProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/SunflowerwithCompose.iml" filepath="$PROJECT_DIR$/.idea/SunflowerwithCompose.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/SunflowerwithCompose.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macrobenchmark/SunflowerwithCompose.macrobenchmark.iml" filepath="$PROJECT_DIR$/.idea/modules/macrobenchmark/SunflowerwithCompose.macrobenchmark.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/macrobenchmark/SunflowerwithCompose.macrobenchmark.main.iml" filepath="$PROJECT_DIR$/.idea/modules/macrobenchmark/SunflowerwithCompose.macrobenchmark.main.iml" />
+    </modules>
+  </component>
+</project>

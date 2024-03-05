@@ -1,0 +1,37 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="About">
+      <i c="2" l="1709315420613" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="4" l="1709315638710" />
+    </e>
+    <e n="JumpToLastWindow">
+      <i c="3" l="1709315338193" />
+    </e>
+    <e n="MoreRunToolbarActions">
+      <i c="1" l="1709315178151" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1709315622009" />
+    </e>
+    <e n="ToggleBookmark">
+      <i c="8" l="1709315262782" />
+    </e>
+    <e n="WelcomeScreen.GoogleCloudTools.SampleImport">
+      <i c="1" l="1709313219044" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="1" l="1709315273255" />
+    </e>
+    <e n="com.intellij.openapi.keymap.impl.ui.KeymapPanel$RemoveShortcutAction">
+      <i c="1" l="1709315657038" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="10" l="1709315893567" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="13" l="1709315916877" />
+    </e>
+  </component>
+</application>

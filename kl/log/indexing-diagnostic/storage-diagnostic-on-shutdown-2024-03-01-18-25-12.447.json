@@ -1,0 +1,112 @@
+{
+  "pageCacheStats" : {
+    "cachedChannelsStatistics" : {
+      "hit" : 76,
+      "miss" : 0,
+      "load" : 126,
+      "capacity" : 400
+    },
+    "uncachedFileAccess" : 104,
+    "maxRegisteredFiles" : 450,
+    "maxCacheSizeInBytes" : 273883136,
+    "totalCachedSizeInBytes" : 36904960,
+    "pageHits" : 2055,
+    "pageFastCacheHits" : 833923,
+    "pageLoadsAboveSizeThreshold" : 0,
+    "regularPageLoads" : 271,
+    "disposedBuffers" : 229,
+    "totalPageDisposalUs" : 1154,
+    "totalPageLoadUs" : 5054773,
+    "totalPagesLoaded" : 271,
+    "capacityInBytes" : 524288000
+  },
+  "vfsStorageStats" : {
+    "statsPerEnumerator" : {
+      "contentHashes.dat" : {
+        "collisions" : 0,
+        "values" : 191,
+        "dataFileSizeInBytes" : 3820,
+        "storageSizeInBytes" : 96,
+        "btreeStatistics" : {
+          "pages" : 1,
+          "elements" : 191,
+          "height" : 1,
+          "moves" : 0,
+          "leafPages" : 1,
+          "maxSearchStepsInRequest" : 1,
+          "searchRequests" : 390,
+          "searchSteps" : 6,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 32768
+        }
+      },
+      "names.dat" : {
+        "collisions" : 3036,
+        "values" : 190815,
+        "dataFileSizeInBytes" : 6136041,
+        "storageSizeInBytes" : 24416,
+        "btreeStatistics" : {
+          "pages" : 66,
+          "elements" : 189057,
+          "height" : 2,
+          "moves" : 994,
+          "leafPages" : 65,
+          "maxSearchStepsInRequest" : 105,
+          "searchRequests" : 810918,
+          "searchSteps" : 1105548,
+          "pageCapacity" : 32768,
+          "sizeInBytes" : 2162688
+        }
+      }
+    }
+  },
+  "indexStorageStats" : {
+    "indexStoragesStats" : { }
+  },
+  "otherStorageStats" : {
+    "statsPerPhm" : {
+      "$USER_HOME$/.projector/configs/kl/system/frameworks/detection/SunflowerwithCompose.c29d45ec/files" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      },
+      "$USER_HOME$/.projector/configs/kl/system/testHistory/c29d45ec/testStateMap" : {
+        "persistentEnumeratorStatistics" : {
+          "collisions" : 0,
+          "values" : 0,
+          "dataFileSizeInBytes" : 0,
+          "storageSizeInBytes" : 96,
+          "btreeStatistics" : {
+            "pages" : 0,
+            "elements" : 0,
+            "height" : 0,
+            "moves" : 0,
+            "leafPages" : 1,
+            "maxSearchStepsInRequest" : 0,
+            "searchRequests" : 0,
+            "searchSteps" : 0,
+            "pageCapacity" : 32768,
+            "sizeInBytes" : 0
+          }
+        },
+        "valueStorageSizeInBytes" : 0
+      }
+    }
+  }
+}

@@ -1,0 +1,9 @@
+.idea
+!.idea/copyright
+venv
+*.egg-info
+build
+dist
+__pycache__
+projector_installer/LICENSE.txt
+projector_installer/bundled 
